@@ -1,4 +1,4 @@
-## Haoyu Wang
+## Haoyu Wang (Andrew)
 
 I'm interested in investigating spatiotemporal variations in ecological and environmental fields. My current work involves species distribution models and geocomputation. 
 I was a Research Associate at the University of Michigan and worked with high/very high resolution remote sensing data for various geospatial analyses.
@@ -9,6 +9,11 @@ I was a Research Associate at the University of Michigan and worked with high/ve
 - M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
 - B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
 
+### Research
+[Constructing]
+
+### Publications
+Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Berkel, M. Jain (Submitted). Using Deep Learning and Very High-Resolution Imagery to Map Smallholder Field Boundaries.
 
 <!-- ## Haoyu Wang
 
