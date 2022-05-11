@@ -1,4 +1,4 @@
-## About Haoyu (Andrew) Wang 
+### About
 
 I'm interested in investigating spatiotemporal variations in ecological and environmental fields. My current work involves species distribution models and geocomputation. 
 I was a Research Associate at the University of Michigan and worked with high/very high resolution remote sensing data for various geospatial analyses.
