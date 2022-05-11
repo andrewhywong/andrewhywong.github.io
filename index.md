@@ -1,12 +1,12 @@
-## Haoyu Wang (Andrew)
+## About Haoyu (Andrew) Wang 
 
 I'm interested in investigating spatiotemporal variations in ecological and environmental fields. My current work involves species distribution models and geocomputation. 
 I was a Research Associate at the University of Michigan and worked with high/very high resolution remote sensing data for various geospatial analyses.
 
 ### Education
 
-- Doctoral Student, Department of Geography and the Environment, University of Texas at Austin (2021- )
-- M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
+- Ph.D. student, Department of Geography and the Environment, University of Texas at Austin (2021- )
+- M.Sc. in Conservation Ecology & Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
 - B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
 
 ### Research
