@@ -5,9 +5,9 @@ I was a Research Associate at the University of Michigan and worked with high/ve
 
 ### Education
 
-Doctoral Student, Department of Geography and the Environment, University of Texas at Austin (2021- )
-M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
-B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
+- Doctoral Student, Department of Geography and the Environment, University of Texas at Austin (2021- )
+- M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
+- B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
 
 
 <!-- ## Haoyu Wang
