@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Haoyu Wang
+
+I'm interested in investigating spatiotemporal variations in ecological and environmental fields. My current work involves species distribution models and geocomputation. 
+I was a Research Associate at the University of Michigan and worked with high/very high resolution remote sensing data for various geospatial analyses.
+
+### Education
+
+Doctoral Student, Department of Geography and the Environment, University of Texas at Austin (2021- )
+M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor (2018-2020)
+B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
+
+
+<!-- ## Haoyu Wang
 
 You can use the [editor on GitHub](https://github.com/andrewhywong/andrewhywong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
