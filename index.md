@@ -10,10 +10,10 @@ I was a Research Associate at the University of Michigan and worked with high/ve
 - B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College (2014-2018)
 
 ### Research
-[Constructing]
+[
 
 ### Publications
-Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Berkel, M. Jain (Submitted). Using Deep Learning and Very High-Resolution Imagery to Map Smallholder Field Boundaries.
+Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Berkel, M. Jain (2022). Using Deep Learning and Very-High-Resolution Imagery to Map Smallholder Field Boundaries. <i>Remote Sensing, 14</i>(13), 3046. \href{{}}{{doi.org/10.3390/rs14133046}} <a href="https://doi.org/10.3390/rs14133046">Link</a>
 
 <!-- ## Haoyu Wang
 
