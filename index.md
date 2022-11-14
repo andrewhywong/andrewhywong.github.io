@@ -1,6 +1,6 @@
 ### About
 
-I am a second year Doctoral student at the University of Texas at Austin under the supervision of Dr. <a target="_blank" href="https://doi.org/10.3390/rs14133046">Jennifer A. Miller</a>. I focus on investigating spatiotemporal variations in fields of ecology, environment, and human-environment interactions using geographic information sciences and remote sensing techniques. 
+I am a second year Doctoral student at the University of Texas at Austin under the supervision of Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. I focus on investigating spatiotemporal variations in fields of ecology, environment, and human-environment interactions using geographic information sciences and remote sensing techniques. 
 
 ### Education
 
