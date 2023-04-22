@@ -23,3 +23,5 @@ Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Be
 
 <!-- <a target="_blank" href="https://doi.org/10.3390/rs14133046">[Link]</a> -->
 
+DM Horr, BM Ivanov, AA Payne, M Rouzbehani, J Vega, <ins>H. Wang</ins>,  MA Johnson (2019). Behavioral Repeatability in the Bark Anole, Anolis distichus, Across Social Contexts. <i>Integrative and Comparative Biology</i>. 
+
