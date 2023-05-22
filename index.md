@@ -13,7 +13,7 @@ I am a second year Doctoral student at the University of Texas at Austin under t
   - Developing a framework for geographic attribution using species distribution models in forensic analyses based on biotic, abiotic, movement, and social (BAMS) factors. 
 
 ### Peer-Reviewed Publications
-<ins>Wang, H.</ins>, J. A. Miller, T. H. Grubesic, S. Jha (2023). Using Habitat Suitability Models for Multiscale Forensic Geolocation Analysis. <i>Transactions in GIS, 00</i>, 1–20. 
+<ins>Wang, H.</ins>, J. A. Miller, T. H. Grubesic, S. Jha (2023). Using Habitat Suitability Models for Multiscale Forensic Geolocation Analysis. <i>Transactions in GIS, 27</i>(3), 777–796. 
 
 Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Berkel, M. Jain (2022). Using Deep Learning and Very-High-Resolution Imagery to Map Smallholder Field Boundaries. <i>Remote Sensing, 14</i>(13), 3046. 
 <!-- <a target="_blank" href="https://doi.org/10.3390/rs14133046">[Link]</a> -->
