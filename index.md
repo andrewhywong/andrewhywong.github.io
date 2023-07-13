@@ -24,4 +24,5 @@ Wuepper, D., <ins>H. Wang</ins>, W. Schlenker, M. Jain. R. Finger (2023). Instit
 
 ### Presentations
 2023 Esri User Conference. Presentation at the _GIScience Research Sessions_. 
+
 2023 AAG Annual Meeting. Presentation at _Geospatial Big Data: Theory, Methods, and Applications_.
