@@ -1,6 +1,6 @@
 ### About
 
-I am a second year Doctoral student at the University of Texas at Austin under the supervision of Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. I investigate spatiotemporal variations in fields of ecology, environment, and human-environment interactions using geographic information sciences and remote sensing techniques. 
+I am a third year Doctoral student at the University of Texas at Austin under the supervision of Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. I investigate spatiotemporal variations in fields of ecology, environment, and human-environment interactions using geographic information sciences and remote sensing techniques. 
 
 ### Education
 
@@ -23,6 +23,7 @@ Mei, W., <ins>H. Wang</ins>, D. Fouhey, W. Zhou, I. Hinks, J. M. Gray, D. Van Be
 Wuepper, D., <ins>H. Wang</ins>, W. Schlenker, M. Jain. R. Finger (2023). Institutions and Global Crop Yields. <i>NBER Working Paper No. w31426</i>. <a target="_blank" href="https://www.nber.org/papers/w31426">[Link]</a>
 
 ### Presentations
+- 2023 GIScience 2023. Presentation at the _12th International Conference on Geographic Information Science_
 - 2023 Esri User Conference. Presentation at the _GIScience Research Sessions_. 
 - 2023 AAG Annual Meeting. Presentation at _Geospatial Big Data: Theory, Methods, and Applications_.
 - 2022 IEEE Symposium on Technologies for Homeland Security (HST). Presentation at _Border Security, Critical Infrastructure Protection & Law Enforcement_.
