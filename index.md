@@ -13,7 +13,7 @@ I am a third year Doctoral student at the University of Texas at Austin under th
   - Developing a framework for geographic attribution using species distribution models in forensic analyses based on biotic, abiotic, movement, and social (BAMS) factors. 
 
 ### Peer-Reviewed Publications/Proceedings
-Surdoval, A., M. Jain, E. Blaire, <ins>Wang H.</ins>, J. Blesh}}. Financial incentive programs and farm diversification with cover crops: Assessing opportunties and challenges. <i>Environmental Research Letters</i>. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ad35d8/meta">[Link]</a>
+Surdoval, A., M. Jain, E. Blaire, <ins>Wang H.</ins>, J. Blesh. Financial incentive programs and farm diversification with cover crops: Assessing opportunties and challenges. <i>Environmental Research Letters</i>. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ad35d8/meta">[Link]</a>
 
 <ins>Wang, H.</ins>, J. A. Miller, T. H. Grubesic, S. Jha (2023). Using Habitat Suitability Models for Multiscale Forensic Geolocation Analysis. <i>Transactions in GIS, 27</i>(3), 777–796. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.13052">[Link]</a>
 
