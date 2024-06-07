@@ -4,7 +4,7 @@ I am a third-year Doctoral candidate at the University of Texas at Austin under 
 
 ### Education
 
-- (2021-present) Ph.D. student, Department of Geography and the Environment, University of Texas at Austin
+- (2021-present) Ph.D. candidate, Department of Geography and the Environment, University of Texas at Austin
 - (2018-2020) M.Sc. in Conservation Ecology, School for Environment and Sustainability, University of Michigan at Ann Arbor
 - (2014-2018) B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College
 
