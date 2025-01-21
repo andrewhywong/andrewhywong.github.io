@@ -18,7 +18,7 @@ Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K
 
 <ins>Wang H.</ins>, J. A. Miller (Accepted). Forensic geolocation identification with physical trace materials: Applications to documented cases. <i>New Research in Crime Modeling and Mapping Using Geospatial Technology</i>.
     
-Helderop E., T. H. Grubesic, E. J. Bienenstock, S. Smith-Heisters, <ins>Wang H.</ins>, J. A. Miller (Accepted). Geoforensic palynology search models and human-mediated secondary pollen deposition. <i>The Professional Geographer</i>.
+Helderop E., T. H. Grubesic, E. J. Bienenstock, S. Smith-Heisters, <ins>Wang H.</ins>, J. A. Miller (Accepted). Geoforensic palynology search models and human-mediated secondary pollen deposition. <i>The Professional Geographer</i>. <a target="_blank" href="https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2434473#d1e322">[Link]</a>
 
 Surdoval, A., M. Jain, E. Blaire, <ins>H. Wang</ins>, J. Blesh (2024). Financial incentive programs and farm diversification with cover crops: Assessing opportunities and challenges. <i>Environmental Research Letters, 19</i>(4), 044063. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ad35d8/meta">[Link]</a>
 
