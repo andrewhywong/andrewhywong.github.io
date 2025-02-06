@@ -13,12 +13,13 @@ I am a Doctoral candidate at the University of Texas at Austin under the supervi
   - Developing a framework for geographic attribution using species distribution models in forensic analyses based on biotic, abiotic, movement, and social (BAMS) factors. 
 
 ### Peer-Reviewed Publications/Proceedings
-#### 2024
-Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K. Remick, B. Patel, B. Yorkgitis, L. Gray, M. Dingeldein, H. Hewes, K. Russell, M. Nance, A. Jensen (Accepted). Pediatric Readiness and Trauma Center Access for Children: A Geospatial Accessibility Analysis. <i>JAMA Pediatrics</i>.
+#### 2025
+<ins>Wang H.</ins>, J. A. Miller (In Press). Forensic geolocation identification with physical trace materials: Applications to documented cases. <i>New Research in Crime Modeling and Mapping Using Geospatial Technology</i>.
 
-<ins>Wang H.</ins>, J. A. Miller (Accepted). Forensic geolocation identification with physical trace materials: Applications to documented cases. <i>New Research in Crime Modeling and Mapping Using Geospatial Technology</i>.
-    
-Helderop E., T. H. Grubesic, E. J. Bienenstock, S. Smith-Heisters, <ins>Wang H.</ins>, J. A. Miller (Accepted). Geoforensic palynology search models and human-mediated secondary pollen deposition. <i>The Professional Geographer</i>. <a target="_blank" href="https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2434473#d1e322">[Link]</a>
+Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K. Remick, B. Patel, B. Yorkgitis, L. Gray, M. Dingeldein, H. Hewes, K. Russell, M. Nance, A. Jensen (2025). Pediatric Readiness and Trauma Center Access for Children. <i>JAMA Pediatrics</i>. <a target="_blank" href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829874">[Link]</a> 
+
+#### 2024
+Helderop E., T. H. Grubesic, E. J. Bienenstock, S. Smith-Heisters, <ins>Wang H.</ins>, J. A. Miller (2024). Geoforensic palynology search models and human-mediated secondary pollen deposition. <i>The Professional Geographer</i>, 1–13. <a target="_blank" href="https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2434473">[Link]</a>
 
 Surdoval, A., M. Jain, E. Blaire, <ins>H. Wang</ins>, J. Blesh (2024). Financial incentive programs and farm diversification with cover crops: Assessing opportunities and challenges. <i>Environmental Research Letters, 19</i>(4), 044063. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ad35d8/meta">[Link]</a>
 
