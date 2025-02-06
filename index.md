@@ -14,6 +14,8 @@ I am a Doctoral candidate at the University of Texas at Austin under the supervi
 
 ### Peer-Reviewed Publications/Proceedings
 #### 2025
+Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, J. Blesh (In Review). Increasing crop rotation diversity with cover crops builds climate resilience on working farms.
+
 <ins>Wang H.</ins>, J. A. Miller (In Press). Forensic geolocation identification with physical trace materials: Applications to documented cases. <i>New Research in Crime Modeling and Mapping Using Geospatial Technology</i>.
 
 Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K. Remick, B. Patel, B. Yorkgitis, L. Gray, M. Dingeldein, H. Hewes, K. Russell, M. Nance, A. Jensen (2025). Pediatric Readiness and Trauma Center Access for Children. <i>JAMA Pediatrics</i>. <a target="_blank" href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829874">[Link]</a> 
