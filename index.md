@@ -14,11 +14,13 @@ I am a Doctoral candidate at the University of Texas at Austin under the supervi
 
 ### Peer-Reviewed Publications/Proceedings
 #### 2025
-Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, J. Blesh (In Review). Increasing crop rotation diversity with cover crops builds climate resilience on working farms.
+Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, M. Deshpande, J. Blesh (2025). Increasing crop rotation diversity with cover crops builds climate resilience on working farms. <i>Environmental Research Letters.</i>.
 
-<ins>Wang H.</ins>, J. A. Miller (In Press). Forensic geolocation identification with physical trace materials: Applications to documented cases. <i>New Research in Crime Modeling and Mapping Using Geospatial Technology</i>.
+<ins>Wang H.</ins>, J. A. Miller (2025). Geoforensic Search Space Modeling: Applications to Documented Cases. In: Leitner,
+ M. (eds) New Research in Crime Modeling and Mapping Using Geospatial Technologies. <i>Geotechnologies and the
+ Environment</i>, 27, Springer Nature. <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-031-81580-5_4">[Link]</a>
 
-Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K. Remick, B. Patel, B. Yorkgitis, L. Gray, M. Dingeldein, H. Hewes, K. Russell, M. Nance, A. Jensen (2025). Pediatric Readiness and Trauma Center Access for Children. <i>JAMA Pediatrics</i>. <a target="_blank" href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829874">[Link]</a> 
+Melhado C., C. Hancock, <ins>H. Wang</ins>, M. Eldin, N. George, J. A. Miller, K. Remick, B. Patel, B. Yorkgitis, L. Gray, M. Dingeldein, H. Hewes, K. Russell, M. Nance, A. Jensen (2025). Pediatric Readiness and Trauma Center Access for Children. <i>JAMA Pediatrics</i>, 179(4):455–462. <a target="_blank" href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829874">[Link]</a> 
 
 #### 2024
 Helderop E., T. H. Grubesic, E. J. Bienenstock, S. Smith-Heisters, <ins>H. Wang</ins>, J. A. Miller (2024). Geoforensic palynology search models and human-mediated secondary pollen deposition. <i>The Professional Geographer</i>, 1–13. <a target="_blank" href="https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2434473">[Link]</a>
