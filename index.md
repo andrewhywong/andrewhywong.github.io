@@ -1,11 +1,11 @@
 ### About
 
-I am a Doctoral candidate at the University of Texas at Austin under the supervision of Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. I investigate spatiotemporal variations in fields of ecology, environment, and human-environment interactions using geographic information sciences and remote sensing techniques. 
+I recently completed my Ph.D. in Geography and Environmental Studies at the University of Texas at Austin, where I was advised by Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. My research focuses on spatiotemporal variation in ecology, environmental systems, and human–environment interactions using geographic information science, remote sensing, and spatial data science methods.
 
 ### Education
 
-- (2021-present) Ph.D. candidate, Department of Geography and the Environment, University of Texas at Austin
-- (2018-2020) M.Sc. in Conservation Ecology, School for Environment and Sustainability, University of Michigan at Ann Arbor
+- (2021-2026) Ph.D. in Geography and Environmental Studies, Department of Geography and the Environment, University of Texas at Austin
+- (2018-2020) M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor
 - (2014-2018) B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College
 
 ### Current Research 
@@ -14,7 +14,7 @@ I am a Doctoral candidate at the University of Texas at Austin under the supervi
 
 ### Peer-Reviewed Publications/Proceedings
 #### 2025
-Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, M. Deshpande, J. Blesh (2025). Increasing crop rotation diversity with cover crops builds climate resilience on working farms. <i>Environmental Research Letters.</i>.
+Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, M. Deshpande, J. Blesh (2025). Increasing crop rotation diversity with cover crops builds climate resilience on working farms. <i>Environmental Research Letters.</i>. 20(12),124025. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ae1c53/meta">[Link]</a> 
 
 <ins>Wang H.</ins>, J. A. Miller (2025). Geoforensic Search Space Modeling: Applications to Documented Cases. In: Leitner,
  M. (eds) New Research in Crime Modeling and Mapping Using Geospatial Technologies. <i>Geotechnologies and the
