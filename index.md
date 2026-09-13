@@ -8,14 +8,14 @@ I recently completed my Ph.D. in Geography and Environmental Studies at the Univ
 
 - (2021-2026) Ph.D. in Geography and Environmental Studies, Department of Geography and the Environment, University of Texas at Austin
 - (2018-2020) M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor
-- (2014-2018) B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College
+- (2014-2018) B.Sc. in Environmental Science, Beijing Normal University - Hong Kong Baptist University United International College
 
 ### Research
 
-- **Networked PalYnology Models of Pollen and Human Systems (NYMPHS)** — 
-  Department of Defense Multidisciplinary University Research Initiative (MURI)
+- **Networked PalYnology Models of Pollen and Human Systems (NYMPHS)** - Department of Defense Multidisciplinary University Research Initiative (MURI)
   - Developed GeoAI frameworks for geographic attribution from pollen and biological assemblages by combining spatial data science, species distribution modeling, and deep learning across biotic, abiotic, movement, and social (BAMS) data.
   - Built language-enhanced spatial learning methods that integrate pretrained location representations, large-language-model-derived species embeddings, gated attention, contrastive learning, and globally simulated assemblages to learn geographic signatures and support zero-shot prediction for previously unseen taxa.
+
 
 ### Peer-Reviewed Publications/Proceedings
 #### 2025
