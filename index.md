@@ -1,6 +1,11 @@
 ### About
 
-I recently completed my Ph.D. in Geography and Environmental Studies at the University of Texas at Austin, where I was advised by Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. My research focuses on spatiotemporal variation in ecology, environmental systems, and human–environment interactions using geographic information science, remote sensing, and spatial data science methods.
+### About
+
+I currently work on geospatial technology at bp America, with a focus on enterprise geospatial systems, data engineering, workflow automation, and geospatial application development.
+
+I recently completed my Ph.D. in Geography and Environmental Studies at the University of Texas at Austin, where I was advised by Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. My research focuses on spatial data science and geographic information science, with applications in ecology, environmental systems, human–environment interactions, and geographic attribution.
+
 
 ### Education
 
@@ -8,13 +13,19 @@ I recently completed my Ph.D. in Geography and Environmental Studies at the Univ
 - (2018-2020) M.Sc. in Geospatial Data Science, School for Environment and Sustainability, University of Michigan at Ann Arbor
 - (2014-2018) B.Sc. in Environmental Science, Beijing Normal University–Hong Kong Baptist University United International College
 
-### Current Research 
-- Networked PalYnology Models of Pollen and Human Systems (NYMPHS) under the Department of Defense Multidisciplinary University Research Initiative (MURI)
-  - Developing a framework for geographic attribution using species distribution models in forensic analyses based on biotic, abiotic, movement, and social (BAMS) factors. 
+### Research
+
+- **Networked PalYnology Models of Pollen and Human Systems (NYMPHS)** — 
+  Department of Defense Multidisciplinary University Research Initiative (MURI)
+  - Developed GeoAI frameworks for geographic attribution from pollen and biological assemblages by combining spatial data science, species distribution modeling, and deep learning across biotic, abiotic, movement, and social (BAMS) data.
+  - Built language-enhanced spatial learning methods that integrate pretrained location representations, large-language-model-derived species embeddings, gated attention, contrastive learning, and globally simulated assemblages to learn geographic signatures and support zero-shot prediction for previously unseen taxa.
 
 ### Peer-Reviewed Publications/Proceedings
 #### 2025
-Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, M. Deshpande, J. Blesh (2025). Increasing crop rotation diversity with cover crops builds climate resilience on working farms. <i>Environmental Research Letters.</i>. 20(12),124025. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ae1c53/meta">[Link]</a> 
+
+Shao Y., V. Hugo R. Prudente, J. Blesh, <ins>H. Wang</ins>, P. Rao, M. Jain (2026). Mapping Cover Crops and Winter Land Cover in Michigan Using Sentinel-1 and Sentinel-2 Imagery and Google Earth Engine. <i>Remote Sensing.</i> <a target="_blank" href="https://www.mdpi.com/2072-4292/18/12/1933">[Link]</a>
+
+Herrick, E., M. Jain, K. Connell, <ins>H. Wang</ins>, W. Zhou, M. Deshpande, J. Blesh (2025). Increasing crop rotation diversity with cover crops builds climate resilience on working farms. <i>Environmental Research Letters.</i> 20(12),124025. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/ae1c53/meta">[Link]</a> 
 
 <ins>Wang H.</ins>, J. A. Miller (2025). Geoforensic Search Space Modeling: Applications to Documented Cases. In: Leitner,
  M. (eds) New Research in Crime Modeling and Mapping Using Geospatial Technologies. <i>Geotechnologies and the
