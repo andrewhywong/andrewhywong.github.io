@@ -1,7 +1,4 @@
 ### About
-
-### About
-
 I currently work on geospatial technology at bp America, with a focus on enterprise geospatial systems, data engineering, workflow automation, and geospatial application development.
 
 I recently completed my Ph.D. in Geography and Environmental Studies at the University of Texas at Austin, where I was advised by Dr. <a target="_blank" href="https://liberalarts.utexas.edu/geography/faculty/jam5889">Jennifer A. Miller</a>. My research focuses on spatial data science and geographic information science, with applications in ecology, environmental systems, human–environment interactions, and geographic attribution.
